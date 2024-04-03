@@ -1,4 +1,4 @@
-import {getAll } from "../_actions/product";
+import { getAll } from "../_actions/product";
 import Products from "./components/Products";
 
 const Container = async () => {
